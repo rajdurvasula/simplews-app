@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-simplewsapp-dev-32531-authRole",
+      "UnauthRoleArn": "arn:aws:iam::466323227181:role/amplify-simplewsapp-dev-32531-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::466323227181:role/amplify-simplewsapp-dev-32531-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-simplewsapp-dev-32531-deployment",
+      "UnauthRoleName": "amplify-simplewsapp-dev-32531-unauthRole",
+      "StackName": "amplify-simplewsapp-dev-32531",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:466323227181:stack/amplify-simplewsapp-dev-32531/72e1d580-0bf5-11ee-be3e-0acfa150dba8",
+      "AmplifyAppId": "d1mbb7ticsefdp"
+    }
+  }
+}
